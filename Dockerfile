@@ -87,3 +87,6 @@ chmod +x /docker-entrypoint-initdb.d/init-extensions.sh
 LABEL maintainer="HiWars Project"
 
 LABEL description="PostgreSQL 17 with pgvector, postgis, and pg_trgm extensions"
+
+
+# Trigger workflow build
